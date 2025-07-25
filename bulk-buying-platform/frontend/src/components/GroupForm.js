@@ -1,0 +1,1 @@
+// GroupForm.js - boilerplate placeholder

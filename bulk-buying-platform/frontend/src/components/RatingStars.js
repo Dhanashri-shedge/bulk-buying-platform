@@ -1,0 +1,1 @@
+// RatingStars.js - boilerplate placeholder

@@ -1,0 +1,1 @@
+// authController.js - boilerplate placeholder

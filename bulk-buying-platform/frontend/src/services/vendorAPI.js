@@ -1,0 +1,1 @@
+// vendorAPI.js - boilerplate placeholder

@@ -1,0 +1,1 @@
+// vendorController.js - boilerplate placeholder

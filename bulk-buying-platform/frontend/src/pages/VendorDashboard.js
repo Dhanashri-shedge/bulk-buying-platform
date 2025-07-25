@@ -1,0 +1,1 @@
+// VendorDashboard.js - boilerplate placeholder
