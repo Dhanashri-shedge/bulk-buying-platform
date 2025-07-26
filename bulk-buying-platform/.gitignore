@@ -1,1 +1,18 @@
-// .gitignore - boilerplate placeholder
+# .gitignore
+
+# Node modules
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Logs
+*.log
+
+# Env files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db

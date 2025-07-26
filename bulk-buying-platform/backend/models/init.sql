@@ -1,1 +1,6 @@
-// init.sql - boilerplate placeholder
+CREATE TABLE IF NOT EXISTS orders (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  name TEXT NOT NULL,
+  item TEXT NOT NULL,
+  quantity TEXT NOT NULL
+);
